@@ -179,5 +179,5 @@ scaling, and automation features. By understanding its core concepts and command
 ---
 ## Architecture
 <p align="center">
-  <img src="https://phoenixnap.com/kb/wp-content/uploads/2021/04/full-kubernetes-model-architecture.png" width="350" title="architecture">
+  <img src="https://phoenixnap.com/kb/wp-content/uploads/2021/04/full-kubernetes-model-architecture.png" width="750" title="architecture">
 </p>
