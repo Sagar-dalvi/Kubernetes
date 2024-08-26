@@ -1,9 +1,9 @@
 To help weak students understand Kubernetes architecture in a simple and step-by-step way, I'll break down the key concepts and components with easy-to-follow explanations.
 #### architecture :
 <p align="center">
-  <img src="[def2]ps:/miro.medium.com/v2/resize:fit:1400/format:webp/0*fOP7i8w794bWvUuM.pngef]" width="350" title= "architecture">
-  
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fOP7i8w794bWvUuM.png" width="350" title="architecture">
 </p>
+
 
 ### What is Kubernetes?
 
