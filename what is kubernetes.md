@@ -13,6 +13,11 @@ isolated environments that hold parts of an application (like a database, a web 
 ### Key Components of Kubernetes
 
 1. **Pods: The Basic Building Blocks**
+
+<p align="center">
+  <img src="[https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fOP7i8w794bWvUuM.png](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Ov0hT6_59NzMS7o2Ea-P-Q.png)" width="650" title="architecture">
+</p>
+
    - **What are Pods?**
      - Pods are the smallest units in Kubernetes. They usually contain one or more containers that work together.
    - **Example:**
