@@ -1,7 +1,7 @@
-To help weak students understand Kubernetes architecture in a simple and step-by-step way, I'll break down the key concepts and components with easy-to-follow explanations.
-#### architecture :
+To help  understand Kubernetes architecture in a simple and step-by-step way, I'll break down the key concepts and components with easy-to-follow explanations.
+#### Architecture :
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fOP7i8w794bWvUuM.png" width="650" title="architecture">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fOP7i8w794bWvUuM.png" width="650" title="Architecture">
 </p>
 
 
